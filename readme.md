@@ -92,6 +92,6 @@ Street-level entrance. Small dining area — call ahead to reserve seating for g
 
 <footer>
   <p><strong>Last update:</strong> 2025-10-09</p>
-  <p><strong>Who:</strong> Jugs' Pares House (maintainer) — replace with actual maintainer</p>
+  <p><strong>Who:</strong> Jugs' Pares House (maintainer)
   <p><strong>TL;DR:</strong> Neighborhood pares shop serving slow-cooked beef, garlic rice, clear broth, and small catering.</code>.</p>
 </footer>
