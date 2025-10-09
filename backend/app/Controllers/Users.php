@@ -13,16 +13,16 @@ class Users extends BaseController
 
     public function signIn(): string
     {
-        return view('sign-in');
+        return view('user/sign-in');
     }
 
     public function roadmap(): string
     {
-        return view('roadmap');
+        return view('user/roadmap');
     }
 
     public function moodboard(): string
     {
-        return view('moodboard');
+        return view('user/moodboard');
     }
 }
