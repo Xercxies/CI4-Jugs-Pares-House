@@ -1,101 +1,97 @@
 <a name="readme-top"></a>
 
-<br/>
-<br/>
+<br />
 
 <div align="center">
-  <div align="center">
-    <a href="#readme-top">
-      <img src="https://www.shutterstock.com/image-photo/pares-known-beef-term-serving-600nw-2353666091.jpg" alt="Exterior and signature pares at Jugs' Pares House" style="max-width:900px; width:100%; height:auto; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.08);" />
-    </a>
+  <a href="#readme-top">
+    <img src="https://www.shutterstock.com/image-photo/pares-known-beef-term-serving-600nw-2353666091.jpg" alt="Jugs' Pares House - beef pares" style="max-width:900px; width:100%; height:auto; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.08);" />
+  </a>
 
-    <h1 align="center">Jugs' Pares House</h1>
-    <p align="center"><strong>Real home-cooked pares & Filipino comfort food</strong> — slow-simmered beef brisket in a slightly sweet-savory broth, served with garlic rice and a simple clear soup. Neighborhood-loved, budget-friendly, and perfect for quick lunches or relaxed dinners.</p>
+  <h1 align="center">Jugs' Pares House</h1>
+  <p align="center"><strong>Everyday Filipino comfort food</strong> — signature slow-simmered beef pares served with garlic rice and clear broth. Fast, affordable, and crowd-pleasing.</p>
 
-    <p align="center">
-      <strong>Highlights:</strong>
-      <span style="display:inline-block; margin:0 8px;">⭐ Tender slow-cooked beef</span>•
-      <span style="display:inline-block; margin:0 8px;">🍚 Garlic rice staples</span>•
-      <span style="display:inline-block; margin:0 8px;">🥣 Simple soup & atchara</span>•
-      <span style="display:inline-block; margin:0 8px;">🚚 Takeout & small catering</span>
-    </p>
-
-    <p align="center">
-      <a href="#what-we-serve">Menu</a> •
-      <a href="#location-hours">Location & Hours</a> •
-      <a href="#contact">Contact</a> •
-      <a href="#image-photo-placeholder">Image Info</a>
-    </p>
-  </div>
-
-  <hr />
-
-  <h2 id="what-we-serve">What we serve</h2>
-  <p>We focus on classic pares combinations with a few rotating specials. Everything is made in small batches to preserve freshness and that homemade taste:</p>
-  <ul>
-    <li><strong>Classic Pares</strong> — slow-cooked beef brisket, garlic rice, clear soup, and pickled atchara.</li>
-    <li><strong>Spicy Pares</strong> — same base with a house chili oil and crunchy garlic topping.</li>
-    <li><strong>Pares Bowl (Lean Cut)</strong> — lighter cut for takeout and delivery.</li>
-    <li><strong>Sides</strong> — steamed vegetables, extra atchara, fried egg, and lumpiang Shanghai (seasonal).</li>
-  </ul>
-
-  <h3>Signature Dishes</h3>
-  <ol>
-    <li><strong>Beef Pares (Signature)</strong> — 8–10 hours low-and-slow brisket simmered in aromatics and soy-sugar glaze.</li>
-    <li><strong>Garlic Rice</strong> — made with rendered beef fat and toasted garlic for deep flavor.</li>
-    <li><strong>Clear Broth</strong> — light soup with bone-infused clarity to balance the meal.</li>
-  </ol>
-
-  <h3>Sample Pricing (subject to change)</h3>
-  <table>
-    <thead>
-      <tr><th>Item</th><th>Portion</th><th>Price (₱)</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Classic Pares</td><td>Regular</td><td>120</td></tr>
-      <tr><td>Pares Bowl (Lean)</td><td>Regular</td><td>100</td></tr>
-      <tr><td>Extra Garlic Rice</td><td>Side</td><td>25</td></tr>
-      <tr><td>Small Catering (per head)</td><td>Min. 10</td><td>140</td></tr>
-    </tbody>
-  </table>
-
-  <h2 id="catering-orders">Catering & Orders</h2>
-  <p>We accept takeout, delivery (via partner apps), and small catering. For catering orders, please provide 48–72 hours notice for 10+ pax. Bulk/recurring corporate orders can be accommodated with menu adjustments.</p>
-  <ul>
-    <li>Minimum for catering: 10 pax</li>
-    <li>Lead time: 48–72 hours</li>
-    <li>Payment: Cash, GCash, and bank transfer accepted for large orders</li>
-  </ul>
-
-  <h2 id="location-hours">Location & Hours</h2>
-  <p><strong>Address:</strong> 123 Neighborhood St., Barangay Example, City (replace with actual address)</p>
-  <p><strong>Hours:</strong> Mon–Sat 10:30 AM – 8:30 PM • Sun 11:00 AM – 7:00 PM (holiday hours vary)</p>
-
-  <h2 id="contact">Contact</h2>
-  <p>
-    <strong>Phone:</strong> +63 917 000 0000 (placeholder)<br />
-    <strong>Email:</strong> orders@example.com (placeholder)<br />
-    <strong>Social:</strong> <a href="https://facebook.com/jugspareshouse">Facebook</a> • <a href="https://instagram.com/jugspareshouse">Instagram</a>
+  <p align="center">
+    <strong>Highlights:</strong>
+    <span style="display:inline-block; margin:0 8px;">⭐ Slow-cooked beef</span>•
+    <span style="display:inline-block; margin:0 8px;">🍚 Garlic rice</span>•
+    <span style="display:inline-block; margin:0 8px;">🥣 Clear soup & atchara</span>•
+    <span style="display:inline-block; margin:0 8px;">🚚 Takeout & catering</span>
   </p>
 
-  <h2 id="testimonials">What customers say</h2>
-  <blockquote>"Best pares in the neighborhood — hearty, flavorful, and consistent." — Local regular</blockquote>
-  <blockquote>"Great value and fast service for takeout." — Office worker</blockquote>
+  <p align="center">
+    <a href="#menu">Menu</a> •
+    <a href="#orders-catering">Orders & Catering</a> •
+    <a href="#location-hours">Location & Hours</a> •
+    <a href="#contact">Contact</a>
+  </p>
+</div>
 
-  <h2 id="food-standards">Ingredients & Dietary Notes</h2>
-  <p>We use locally sourced beef and everyday pantry ingredients. Meals contain soy, garlic, and possible traces of seafood (used in some condiments). Ask staff about sodium, spice level, or gluten alternatives.</p>
+---
 
-  <h2 id="accessibility">Accessibility</h2>
-  <p>Street-level entrance. Small dining area — we recommend calling ahead for groups to reserve space.</p>
+## Menu
+We keep the menu simple and focused on what we do best: beef pares and matching sides. Portions are made fresh daily.
 
-  <h2 id="image-photo-placeholder">Image source / Photo credit</h2>
-  <p>If you want to replace the hero image, put the file at <code>./assets/img/jugs-pares-house.jpg</code> or use an external URL. Please credit the photographer here:</p>
-  <p><strong>Photo credit:</strong> [Photographer Name or Source] — <a href="https://example.com/photo-source" target="_blank" rel="noopener noreferrer">Image source link</a></p>
+- **Classic Pares** — slow-simmered beef brisket, garlic rice, clear broth, and atchara.
+- **Spicy Pares** — classic pares with house chili oil and crunchy garlic.
+- **Pares Bowl (Lean Cut)** — leaner cut for lighter meals and delivery.
+- **Sides** — extra garlic rice, fried egg, steamed veggies, lumpiang shanghai (seasonal).
 
-  <hr />
+### Signature Dishes
+1. **Beef Pares (Signature)** — 8–10 hours low-and-slow brisket simmered in aromatics and soy-sugar glaze.
+2. **Garlic Rice** — toasted garlic cooked in rendered beef fat for depth.
+3. **Clear Broth** — light bone broth to balance the richness.
 
-  <footer>
-    <p><strong>Last update:</strong> 2025-10-09</p>
-    <p><strong>Who:</strong> Jugs' Pares House (maintainer) — replace with actual maintainer name</p>
-    <p><strong>TL;DR:</strong> Neighborhood pares shop serving slow-cooked beef, garlic rice, and small catering; image placeholder in <code>./assets/img/jugs-pares-house.jpg</code>.</p>
-  </footer>
+### Sample Pricing (estimate)
+| Item | Portion | Price (₱) |
+|---|---:|---:|
+| Classic Pares | Regular | 120 |
+| Pares Bowl (Lean) | Regular | 100 |
+| Extra Garlic Rice | Side | 25 |
+| Small Catering (per head) | Min. 10 | 140 |
+
+---
+
+## Orders & Catering
+We serve walk-in, takeout, delivery via partner platforms, and small catering.
+
+- Minimum catering: 10 pax
+- Lead time: 48–72 hours
+- Payment: Cash, GCash, bank transfer (for bulk orders)
+- For corporate/recurring orders, contact us to set a regular menu and pricing
+
+---
+
+## Location & Hours
+**Address:** 420 Neighborhood St., Barangay Hoodlum, Creak City  
+**Hours:** Mon–Sat 10:30 AM – 8:30 PM • Sun 11:00 AM – 7:00 PM (holiday hours vary)
+
+---
+
+## Contact
+**Phone:** +63 917 567 5665   
+**Email:** jugspareshouse@gmail.com   
+**Social:** [Facebook](https://facebook.com/jugspareshouse) • [Instagram](https://instagram.com/jugspareshouse)
+
+---
+
+## What customers say
+> "Best pares in the neighborhood — hearty, flavorful, and consistent." — regular customer  
+> "Great value and fast service for takeout." — office worker
+
+---
+
+## Ingredients & Dietary Notes
+We source local beef and use common pantry ingredients. Meals contain soy and garlic; may contain traces of seafood (in condiments). Ask staff about sodium, spice levels, or gluten-free alternatives.
+
+---
+
+## Accessibility
+Street-level entrance. Small dining area — call ahead to reserve seating for groups.
+
+---
+
+<footer>
+  <p><strong>Last update:</strong> 2025-10-09</p>
+  <p><strong>Who:</strong> Jugs' Pares House (maintainer) — replace with actual maintainer</p>
+  <p><strong>TL;DR:</strong> Neighborhood pares shop serving slow-cooked beef, garlic rice, clear broth, and small catering.</code>.</p>
+</footer>
