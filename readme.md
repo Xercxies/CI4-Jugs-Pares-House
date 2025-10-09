@@ -4,225 +4,98 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-<!-- * Title Section -->
-  <h3 align="center">AD - CI4 Template</h3>
-</div>
+  <div align="center">
+    <a href="#readme-top">
+      <img src="https://www.shutterstock.com/image-photo/pares-known-beef-term-serving-600nw-2353666091.jpg" alt="Exterior and signature pares at Jugs' Pares House" style="max-width:900px; width:100%; height:auto; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.08);" />
+    </a>
 
-<!-- * Description Section -->
-<div align="center">
-This repository is a beginner-friendly CodeIgniter 4 template.  
-It helps teams quickly bootstrap backend + frontend projects, with simple sample modules that show how to extend the system.
-</div>
+    <h1 align="center">Jugs' Pares House</h1>
+    <p align="center"><strong>Real home-cooked pares & Filipino comfort food</strong> — slow-simmered beef brisket in a slightly sweet-savory broth, served with garlic rice and a simple clear soup. Neighborhood-loved, budget-friendly, and perfect for quick lunches or relaxed dinners.</p>
 
-<br/>
+    <p align="center">
+      <strong>Highlights:</strong>
+      <span style="display:inline-block; margin:0 8px;">⭐ Tender slow-cooked beef</span>•
+      <span style="display:inline-block; margin:0 8px;">🍚 Garlic rice staples</span>•
+      <span style="display:inline-block; margin:0 8px;">🥣 Simple soup & atchara</span>•
+      <span style="display:inline-block; margin:0 8px;">🚚 Takeout & small catering</span>
+    </p>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
+    <p align="center">
+      <a href="#what-we-serve">Menu</a> •
+      <a href="#location-hours">Location & Hours</a> •
+      <a href="#contact">Contact</a> •
+      <a href="#image-photo-placeholder">Image Info</a>
+    </p>
+  </div>
 
-<!-- ! Make sure it was similar to your github -->
+  <hr />
 
----
+  <h2 id="what-we-serve">What we serve</h2>
+  <p>We focus on classic pares combinations with a few rotating specials. Everything is made in small batches to preserve freshness and that homemade taste:</p>
+  <ul>
+    <li><strong>Classic Pares</strong> — slow-cooked beef brisket, garlic rice, clear soup, and pickled atchara.</li>
+    <li><strong>Spicy Pares</strong> — same base with a house chili oil and crunchy garlic topping.</li>
+    <li><strong>Pares Bowl (Lean Cut)</strong> — lighter cut for takeout and delivery.</li>
+    <li><strong>Sides</strong> — steamed vegetables, extra atchara, fried egg, and lumpiang Shanghai (seasonal).</li>
+  </ul>
 
-<br/>
-<br/>
-
-<details>
-  <summary>Table of Contents</summary>
+  <h3>Signature Dishes</h3>
   <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
-    </li>
-    <li>
-      <a href="#rules-practices-and-principles">Rules, Practices and Principles</a>
-    </li>
-    <li>
-      <a href="#resources">Resources</a>
-    </li>
+    <li><strong>Beef Pares (Signature)</strong> — 8–10 hours low-and-slow brisket simmered in aromatics and soy-sugar glaze.</li>
+    <li><strong>Garlic Rice</strong> — made with rendered beef fat and toasted garlic for deep flavor.</li>
+    <li><strong>Clear Broth</strong> — light soup with bone-infused clarity to balance the meal.</li>
   </ol>
-</details>
 
----
+  <h3>Sample Pricing (subject to change)</h3>
+  <table>
+    <thead>
+      <tr><th>Item</th><th>Portion</th><th>Price (₱)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Classic Pares</td><td>Regular</td><td>120</td></tr>
+      <tr><td>Pares Bowl (Lean)</td><td>Regular</td><td>100</td></tr>
+      <tr><td>Extra Garlic Rice</td><td>Side</td><td>25</td></tr>
+      <tr><td>Small Catering (per head)</td><td>Min. 10</td><td>140</td></tr>
+    </tbody>
+  </table>
 
-## Overview
+  <h2 id="catering-orders">Catering & Orders</h2>
+  <p>We accept takeout, delivery (via partner apps), and small catering. For catering orders, please provide 48–72 hours notice for 10+ pax. Bulk/recurring corporate orders can be accommodated with menu adjustments.</p>
+  <ul>
+    <li>Minimum for catering: 10 pax</li>
+    <li>Lead time: 48–72 hours</li>
+    <li>Payment: Cash, GCash, and bank transfer accepted for large orders</li>
+  </ul>
 
-This template provides a **minimal CodeIgniter 4 project layout** with conventions for file organization, commit practices, and simple modules.
+  <h2 id="location-hours">Location & Hours</h2>
+  <p><strong>Address:</strong> 123 Neighborhood St., Barangay Example, City (replace with actual address)</p>
+  <p><strong>Hours:</strong> Mon–Sat 10:30 AM – 8:30 PM • Sun 11:00 AM – 7:00 PM (holiday hours vary)</p>
 
-It is designed to be **easy to start with** and a **reference for adding new features**.
+  <h2 id="contact">Contact</h2>
+  <p>
+    <strong>Phone:</strong> +63 917 000 0000 (placeholder)<br />
+    <strong>Email:</strong> orders@example.com (placeholder)<br />
+    <strong>Social:</strong> <a href="https://facebook.com/jugspareshouse">Facebook</a> • <a href="https://instagram.com/jugspareshouse">Instagram</a>
+  </p>
 
-* **Purpose**: a clean starting point for CI4 apps.
-* **Audience**: developers who want a predictable structure and quick onboarding.
+  <h2 id="testimonials">What customers say</h2>
+  <blockquote>"Best pares in the neighborhood — hearty, flavorful, and consistent." — Local regular</blockquote>
+  <blockquote>"Great value and fast service for takeout." — Office worker</blockquote>
 
-### Key Components
+  <h2 id="food-standards">Ingredients & Dietary Notes</h2>
+  <p>We use locally sourced beef and everyday pantry ingredients. Meals contain soy, garlic, and possible traces of seafood (used in some condiments). Ask staff about sodium, spice level, or gluten alternatives.</p>
 
-These are **sample modules** included (or suggested) for learning how to add features:
+  <h2 id="accessibility">Accessibility</h2>
+  <p>Street-level entrance. Small dining area — we recommend calling ahead for groups to reserve space.</p>
 
-| Component                 | Purpose                                                             | Notes                                                   |
-| ------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------- |
-| **Auth (Sample)**         | Basic login/logout and role check (admin/user).                     | Uses CI4 sessions + MySQL `users` table.                |
-| **CRUD Module**           | Example entity (`Posts` or `Tasks`) with create/read/update/delete. | Demonstrates Controller → Service → Repository pattern. |
-| **Scheduler (Sample)**    | Simple to-do list with due dates.                                   | Shows how to extend with new tables and services.       |
+  <h2 id="image-photo-placeholder">Image source / Photo credit</h2>
+  <p>If you want to replace the hero image, put the file at <code>./assets/img/jugs-pares-house.jpg</code> or use an external URL. Please credit the photographer here:</p>
+  <p><strong>Photo credit:</strong> [Photographer Name or Source] — <a href="https://example.com/photo-source" target="_blank" rel="noopener noreferrer">Image source link</a></p>
 
- <!-- ! Start simple. Use these modules as **learning samples**; extend or replace them based on your project’s needs. -->
+  <hr />
 
-### Technology
-
-#### Language
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-#### Framework/Library
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
-
-#### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-<!-- ! Keep only the used technology -->
-
----
-
-## Quick Start (Docker)
-
-Run the development stack and the app (rebuild if needed):
-
-```cmd
-docker compose up --watch
-```
-
-Common utility commands (run inside the project root):
-
-- Run migrations:
-```cmd
-docker compose exec php composer migrate
-```
-- Run seeders:
-```cmd
-docker compose exec php composer seed
-```
-- Run tests:
-```cmd
-docker compose exec php composer test
-```
-
-- Create a migration (using CodeIgniter's spark tool):
-```cmd
-docker compose exec php php spark make:migration CreateUsersTabel
-```
-
-- Create a model (using CodeIgniter's spark tool):
-
-```cmd
-docker compose exec php php spark make:model UsemModel
-```
-
-- Create an entity (value object for a single record) (using CodeIgniter's spark tool):
-```cmd
-docker compose exec php php spark make:entity Uzer
-```
-
-- Create a controller (add --resource to scaffold resourceful methods if you like) (using CodeIgniter's spark tool):
-```cmd
-docker compose exec php php spark make:controller Usars
-```
-
-- Create a seeder (for test/dev data) (using CodeIgniter's spark tool):
-```cmd
-docker compose exec php php spark make:seeder UserzSeeder
-```
-
-If you prefer, you can include `-f "compose.yaml"` explicitly; the shorter commands above work when running from the repo root.
-
-## Ports & Database
-
-Defaults used in this project (host mapping):
-
-| Service     | Host port |
-|-------------|-----------:|
-| nginx (app) | 8090      |
-| phpMyAdmin  | 8091      |
-| MySQL       | 3390      |
-
-Database credentials used in examples and CI:
-
-- Host: localhost
-- Port: 3390
-- Database: app
-- User: root
-- Password: root
-
-Be careful: seeding and truncating are destructive operations — run only on local/dev environments unless you know what you're doing.
-
-## Rules, Practices and Principles
-
-<!-- ! Dont Revise this -->
-
-1. Always prefix project titles with `AD-`.
-2. Place files in their **respective CI4 folders** (`Controllers/`, `Services/`, `Repositories/`, `Views/`).
-3. Naming conventions:
-
-   | Type             | Case        | Example                   |
-   | ---------------- | ----------- | ------------------------- |
-   | Classes          | PascalCase  | `UserService.php`         |
-   | Interfaces       | PascalCase  | `UserRepositoryInterface` |
-   | DB tables/fields | snake\_case | `users`, `created_at`     |
-   | Docs             | kebab-case  | `dev-manual.md`           |
-
-4. Git commits use: `feat`, `fix`, `docs`, `refactor`.
-5. Use **Controller → Service → Repository** pattern.
-6. Assets (CSS/JS/img) live under `public/`.
-7. Docker configs are at the repo root (`docker-compose.yml`, `nginx.conf`).
-8. Docs are maintained in `/docs` (dev, technical, sop, commit, principles, copilot).
-
-Example structure:
-
-```
-AD-ProjectName/
-├─ backend/ci4/
-│  ├─ app/Controllers/
-│  ├─ app/Services/
-│  ├─ app/Repositories/
-│  ├─ app/Views/
-│  ├─ public/
-│  ├─ writable/
-│  ├─ .env
-│  └─ composer.json
-├─ docker/               # Docker configs at root
-├─ docs/                 # Manuals and project docs
-├─ .gitignore
-└─ readme.md
-```
-
-<!-- ! Dont Revise this -->
-
----
-
-## Resources
-
-| Title                   | Purpose                                                               | Link                                                                       |
-| ----------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| ChatGPT                 | General AI assistance for planning application architecture and docs. | [https://chat.openai.com](https://chat.openai.com)                         |
-| GitHub Copilot          | In-IDE code suggestions and boilerplate generation.                   | [https://github.com/features/copilot](https://github.com/features/copilot) |
-| YouTube “UI/UX Design”  | Video tutorials on modern web interface layouts and patterns.         | [https://www.youtube.com](https://www.youtube.com)                         |
-| Pinterest Design Boards | Inspiration for color schemes, typography, and component layouts.     | [https://www.pinterest.com](https://www.pinterest.com)                     |
-| Google Photos (Assets)  | Stock imagery and graphics used in UI mockups and documentation.      | [https://photos.google.com](https://photos.google.com)                     |
-| System Documentation    | Internal docs from PHP, MongoDB, and PostgreSQL used in development.  | — (see `/docs` folder in repo)                                             |
-
-<!-- ! Add what tools aided you -->
+  <footer>
+    <p><strong>Last update:</strong> 2025-10-09</p>
+    <p><strong>Who:</strong> Jugs' Pares House (maintainer) — replace with actual maintainer name</p>
+    <p><strong>TL;DR:</strong> Neighborhood pares shop serving slow-cooked beef, garlic rice, and small catering; image placeholder in <code>./assets/img/jugs-pares-house.jpg</code>.</p>
+  </footer>
