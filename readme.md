@@ -13,7 +13,7 @@
   <p align="center">
     <strong>Highlights:</strong>
     <span style="display:inline-block; margin:0 8px;">⭐ Slow-cooked beef</span>•
-    <span style="display:inline-block; margin:0 8px;">🍚 Garlic rice</span>•
+    <span style="display:inline-block; margin:0 8px;">🍚 Garlic Fried rice</span>•
     <span style="display:inline-block; margin:0 8px;">🥣 Clear soup & atchara</span>•
     <span style="display:inline-block; margin:0 8px;">🚚 Takeout & catering</span>
   </p>
